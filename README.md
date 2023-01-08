@@ -15,8 +15,8 @@ Hi! I am Ejayz you can call me here as aspect or aspectdev-ph or just Ejayz. I a
             <br/><br/>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=aspectdev-ph&theme=dracula&show_icons=true&hide_border=true" />
             <br/><br/>
-            <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aspectdevph&hide_title=true&hide_border=true&langs_count=5&la
-yout=compact&v=2.png"/>
+            <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aspectdevph&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/>
+            <br/><br/>
 
 ## Contacts📱
 **Discord:Ejayz#5632**
