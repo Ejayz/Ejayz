@@ -1,17 +1,17 @@
 
 ##  <p align="center">Hello ,Ejayz here 😁</p>
 
-Hi! I am Ejayz. I am a developer that like to create systems . I currently live in Philippines. If you are interested in my projects you can see my [repositories](https://github.com/aspectdev-ph?tab=repositories) or check our [organization](https://github.com/Sledge-Development)
+Hi! I am Ejayz. I am a developer that like to create systems . I currently live in Philippines. If you are interested in my projects you can see my [repositories](https://github.com/Ejayz?tab=repositories) or check our [organization](https://github.com/Sledge-Development)
 
 
 ## What Language I use🤩  :
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspectdev-ph&theme=dracula&hide_border=true" />      
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejayz&theme=dracula&hide_border=true" />      
             <br/><br/>  
          
 
 ## Github Statistics📊
-   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aspectdev-ph&theme=dracula&hide_border=true" />   
+   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ejayz-ph&theme=dracula&hide_border=true" />   
             <br/><br/>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=aspectdev-ph&theme=dracula&show_icons=true&hide_border=true" />
             <br/><br/>
