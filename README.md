@@ -1,7 +1,7 @@
 
 ##  <p align="center">Hello ,Aspect here 😁</p>
 
-Hi! I am Ejayz you can call me here as aspect or aspectdev-ph or just Ejayz. I am a developer that like to create systems . I currently live in Philippines. If you are interested in my projects you can see my [repositories](https://github.com/aspectdev-ph?tab=repositories) or check our [organization](https://github.com/Sledge-Development)
+Hi! I am Ejayz. I am a developer that like to create systems . I currently live in Philippines. If you are interested in my projects you can see my [repositories](https://github.com/aspectdev-ph?tab=repositories) or check our [organization](https://github.com/Sledge-Development)
 
 
 ## What Language I use🤩  :
