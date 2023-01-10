@@ -11,9 +11,9 @@ Hi! I am Ejayz. I am a developer that like to create systems . I currently live 
          
 
 ## Github Statistics📊
-   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ejayz-ph&theme=dracula&hide_border=true" />   
+   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ejayz&theme=dracula&hide_border=true" />   
             <br/><br/>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=aspectdev-ph&theme=dracula&show_icons=true&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ejayz&theme=dracula&show_icons=true&hide_border=true" />
             <br/><br/>
             <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aspectdevph&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/>
             <br/><br/>
