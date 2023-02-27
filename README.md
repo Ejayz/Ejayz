@@ -1,4 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/e4496a0f-6c93-4306-af71-cb26c5af3c2a.svg)](https://wakatime.com/@e4496a0f-6c93-4306-af71-cb26c5af3c2a)
 ##  <p align="center">Hello ,Ejayz here 😁</p>
 
 Hi! I am Ejayz. I am a developer that like to create systems . I currently live in Philippines. If you are interested in my projects you can see my [repositories](https://github.com/Ejayz?tab=repositories) or check our [organization](https://github.com/Sledge-Development)
