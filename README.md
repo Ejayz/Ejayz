@@ -16,9 +16,8 @@ Hi! I am Ejayz. I am a developer that like to create systems . I currently live 
             <br/><br/>
             <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Ejayz&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/>
             <br/><br/>
-                      <h2 align="center">📊 Mashwishi's Github Statistics 📊 </h2>
               Visitor count<br>
-                <img src="https://profile-counter.glitch.me/mashwishi/count.svg" />
+                <img src="https://profile-counter.glitch.me/Ejayz/count.svg" />
             <br/><br>
 
 ## Contacts📱
