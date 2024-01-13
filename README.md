@@ -7,8 +7,12 @@ Hi! I am Ejayz. I am a developer that like to create systems . I currently live 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejayz&theme=dracula&hide_border=true" />      
             <br/><br/>  
-         
-
+            
+## WakaTime  :
+Total hours I have been coding .
+<br/>
+ <img align="center" src="https://wakatime.com/badge/user/e4496a0f-6c93-4306-af71-cb26c5af3c2a.svg" />   
+ <br/><br/> 
 ## Github Statistics📊
    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ejayz&theme=dracula&hide_border=true" />   
             <br/><br/>
